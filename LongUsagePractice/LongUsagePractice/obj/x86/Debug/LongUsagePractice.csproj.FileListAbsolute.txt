@@ -1,0 +1,5 @@
+/home/alex/Projects/LongUsagePractice/LongUsagePractice/obj/x86/Debug/LongUsagePractice.csprojAssemblyReference.cache
+/home/alex/Projects/LongUsagePractice/LongUsagePractice/bin/Debug/LongUsagePractice.exe
+/home/alex/Projects/LongUsagePractice/LongUsagePractice/bin/Debug/LongUsagePractice.pdb
+/home/alex/Projects/LongUsagePractice/LongUsagePractice/obj/x86/Debug/LongUsagePractice.exe
+/home/alex/Projects/LongUsagePractice/LongUsagePractice/obj/x86/Debug/LongUsagePractice.pdb
